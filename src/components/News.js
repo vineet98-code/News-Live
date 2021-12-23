@@ -99,6 +99,7 @@ export default class News extends Component {
                                     author={article.author}
                                     date={article.publishedAt}
                                     source={article.source.name}
+                                
                                     />
                             </div>
                         )
